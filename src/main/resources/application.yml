@@ -7,7 +7,7 @@ spring:
 
 # https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-application-properties.html#server-properties
 server:
-  port: 8080 # Application listening port
+  port: 8282 # Application listening port
 
 # https://oehf.github.io/ipf-docs/docs/boot-xds/
 cxf:
